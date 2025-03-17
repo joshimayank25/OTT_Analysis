@@ -1,5 +1,6 @@
 # OTT_Analysis
 OTT Movie Recommendation System – Project Summary
+
 This project aims to build an intelligent movie recommendation system for OTT platforms, specifically designed for students and professionals transitioning into data analytics. By leveraging machine learning algorithms, the system analyzes user preferences and behaviours to provide personalized movie suggestions, enhancing user satisfaction through genre-specific recommendations.
 
 Key Components:
